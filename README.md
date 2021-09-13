@@ -4,9 +4,11 @@
 
 <p align="center">
  <h1 align="center" font-family="poppins"><img style="padding: 0 800px" src="https://avatars.githubusercontent.com/u/84912528?v=4" width="60"></h1>
- <p align="center">Hey there 👋<img src="https://komarev.com/ghpvc/?username=exuva"/></p>
-</p>
+ <p align="center">Hey there 👋</p>
 
+</p>
+ <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://komarev.com/ghpvc/?username=exuva"/>
 <br /><br />
 
 
@@ -27,4 +29,4 @@
 <a href="https://open.spotify.com/user/electrowaze?si=b8f7e3762dce4b51">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=electrowaze)](https://spotify-github-profile.vercel.app/api/view?uid=electrowaze&redirect=true)
- </a>
+ </a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/exuva?logo=github&style=for-the-badge">
