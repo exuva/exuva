@@ -4,7 +4,7 @@
 
 <p align="center">
  <h1 align="center" font-family="poppins"><img style="padding: 0 800px" src="https://avatars.githubusercontent.com/u/84912528?v=4" width="60"></h1>
- <p align="center">Hey there 👋</p>
+ <p align="center">Hey there 👋<img src="https://komarev.com/ghpvc/?username=exuva"/></p>
 </p>
 
 <br /><br />
