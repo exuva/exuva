@@ -17,7 +17,7 @@
 <a href="https://github.com/exuva">
   <img alt="exuva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exuva&count_private=true&show_icons=true&theme=gotham"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/exuva">
-<img alt="exuva's GitHub Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuva&count_private=true&show_icons=true&theme=gotham" src="https://github.com/anuraghazra/github-readme-stats"/></a>
+<img alt="exuva's GitHub Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuva&count_private=true&show_icons=true&theme=gruvbox" src="https://github.com/anuraghazra/github-readme-stats"/></a>
 
 
 <br /><br />
