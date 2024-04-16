@@ -33,5 +33,5 @@
 <!--   Now playing Spotify -->
 ### 🎧Now Playing :
 <a href="https://open.spotify.com/user/electrowaze?si=b8f7e3762dce4b51">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=electrowaze)](https://spotify-github-profile.vercel.app/api/view?uid=electrowaze&redirect=true)
-</a>
