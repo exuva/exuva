@@ -15,9 +15,11 @@
 <!--   Stats -->
 ### 📊 GitHub Stats :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Top Languages Used  : 
 <a href="https://github.com/exuva">
-  <img alt="exuva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exuva&count_private=true&show_icons=true&theme=transparent"/>
+  <img alt="exuva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exuva&count_private=true&show_icons=true&theme=neon"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/exuva">
-<img alt="exuva's GitHub Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuva&count_private=true&show_icons=true&theme=transparent" src="https://github.com/anuraghazra/github-readme-stats"/></a>
+
+ <br />
+<img alt="exuva's GitHub Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuva&count_private=true&show_icons=true&theme=neon" src="https://github.com/anuraghazra/github-readme-stats"/></a>
 
 
 <br /><br />
