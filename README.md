@@ -22,8 +22,8 @@
 
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=exuva&layout=donut&ring_color=66FFB2&bg_color=FFFFFF&text_color=1F2328&icon_color=66FFB2&hide_border=true&hide_title=true&rank_icon=percentile&show_owner=true&size_weight=0.5&count_weight=0.5&text_bold=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br /><br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/exuva/merge_csv_autorename">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=merge_csv_autorename" />
 </a>
 <a href="https://github.com/exuva/cyberwave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=cyberwave" />
