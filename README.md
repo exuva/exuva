@@ -25,6 +25,6 @@
 <br />
 
 ### My Favorite Work
-<a href="https://github.com/exuva/merge_csv_autorename"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=merge_csv_autorename&bg_color=0D1117&text_color=DDDCD7&icon_color=66FFB2&hide_border=true"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/exuva/cyberwave"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=cyberwave&bg_color=0D1117&text_color=DDDCD7&icon_color=66FFB2&hide_border=true"/></a>
+<a href="https://github.com/exuva/merge_csv_autorename"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=merge_csv_autorename&bg_color=0D1117&text_color=DDDCD7&icon_color=66FFB2&hide_border=true"/> </a><a href="https://github.com/exuva/cyberwave"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=exuva&repo=cyberwave&bg_color=0D1117&text_color=DDDCD7&icon_color=66FFB2&hide_border=true"/></a>
 
 <h2 align="center">Thanksfully</h2>
